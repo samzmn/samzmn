@@ -1,6 +1,12 @@
 ## 👋 Hi, I'm Sam Zamani  
 ### AI Researcher • AI/ML Engineer • Full-Stack Developer • Android Developer • Physician (MD)
 
+<p align="center">
+  <a href="https://github.com/samzm">
+    <img src="https://komarev.com/ghpvc/?username=samzm&style=flat-square&color=blue" alt="profile views"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
