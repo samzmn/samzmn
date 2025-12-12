@@ -2,8 +2,8 @@
 ### AI Researcher • AI/ML Engineer • Full-Stack Developer • Android Developer • Physician (MD)
 
 <p align="center">
-  <a href="https://github.com/samzm">
-    <img src="https://komarev.com/ghpvc/?username=samzm&style=flat-square&color=blue" alt="profile views"/>
+  <a href="https://github.com/samzmn">
+    <img src="https://komarev.com/ghpvc/?username=samzmn&style=flat-square&color=blue" alt="profile views"/>
   </a>
 </p>
 
@@ -111,8 +111,8 @@ Generate personalized **night-sky posters** based on time & location, customize 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samzm&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samzm&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samzmn&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samzmn&layout=compact&theme=dark" />
 </p>
 
 ---
