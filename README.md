@@ -93,7 +93,7 @@ Generate personalized **night-sky posters** based on time & location, customize 
 `Python` `Java` `Kotlin` `JavaScript` `SQL` `C/C++`
 
 ### **AI & ML**
-`TensorFlow` `PyTorch` `Keras`  
+`PyTorch` `TensorFlow` `Keras`  
 `NumPy` `Pandas` `SciPy` `scikit-learn`
 
 ### **Software & Web**
